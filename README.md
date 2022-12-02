@@ -1,1 +1,1 @@
-# Php and Laravel (Codertrust)
+# Php and Laravel (CoderTrust)
